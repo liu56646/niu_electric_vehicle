@@ -1,0 +1,12 @@
+{
+  "name": "Niu Electric Vehicle",
+  "description": "A Home Assistant component to monitor Niu electric vehicles",
+  "render_readme": true,
+  "homeassistant": "2023.1.0",
+  "content_in_root": false,
+  "domains": ["sensor"],
+  "iot_class": "Cloud Polling",
+  "zip_release": false,
+  "filename": "niu_electric_vehicle.zip",
+  "hide_default_branch": true
+}

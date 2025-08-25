@@ -1,0 +1,10 @@
+{
+  "domain": "niu_electric_vehicle",
+  "name": "Niu Electric Vehicle",
+  "version": "1.0.0",
+  "documentation": "https://github.com/liu56646/niu_electric_vehicle",
+  "requirements": ["requests>=2.25.1"],
+  "dependencies": [],
+  "codeowners": ["@liu56646"],
+  "config_flow": true
+}
